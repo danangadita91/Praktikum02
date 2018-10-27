@@ -1,13 +1,16 @@
 # Praktikum02
 
-Latihan1
-"Menentukan bilangan terbesar dari 3 bilangan"
+
+```
+Latihan1 "Menentukan bilangan terbesar dari 3 bilangan"
 Alur Algoritma :
 1. Mendeklarasikan variable int A, B, C sebagai variable input
 2. Menginput nilai A, B, C
 3. Membandingkan nilai A, B, C dengan rumus if
+```
 
 Berikut ini kodenya :
+
 ```c++
 if (A>B){
         		if (A>C)
@@ -25,17 +28,18 @@ Berikut adalah hasilnya :
 ![img](https://raw.githubusercontent.com/danangadita91/Praktikum02/master/Latihan1/Terbesar%20dari%203%20bilagnan(run).png).
 
 
-
-Latihan 2
-"Menentukan bilangan terbesar dan terkecil dari 4 variable"
+```
+Latihan 2 "Menentukan bilangan terbesar dan terkecil dari 4 variable"
 Alur Algoritma :
 1. Mendeklarasikan variable n, nilai sebagai variable input
 2. Mendeklarasikan variable i sebagai pembatas nilai input(perulangan)
 3. Mendeklarasikan max sebagai nilai terbesar dan min sebagai nilai terkecil
 4. Menginputkan nilai n, dimana menunjukan banyak nilai yang akan di bandingkan
 5. Menginput nilai-nilai yang akan jadi nilai pembanding
+```
 
 Berikut adalah kodenya :
+
 ```c++
 int i,n,max,min,nilai;
 
